@@ -55,14 +55,17 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Soy estudiante de Ingeniería de Sistemas, con interés y proyección en el desarrollo de software
+       y la implementación de soluciones tecnológicas innovadoras. Me caracterizo por mi capacidad de 
+       aprendizaje continuo, pensamiento analítico y orientación a la resolución de problemas. Además 
+       de mi formación académica, he trabajado como cocinero profesional, lo cual me ha permitido 
+       desarrollar habilidades clave como la disciplina, el trabajo bajo presión, la organización y 
+       la creatividad; competencias que potencian mi desempeño en proyectos de ingeniería de software. 
+       Mi objetivo es consolidar mi carrera en el área tecnológica, aportando al desarrollo de 
+       aplicaciones y sistemas eficientes, y seguir creciendo como profesional en el campo del 
+       software engineering.
 education:
     title: Education
     info:
